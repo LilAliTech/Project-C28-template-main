@@ -1,1 +1,2 @@
-# Project-C28-template-main
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
